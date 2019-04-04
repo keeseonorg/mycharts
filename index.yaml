@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  javamicroservicekeeseon-cli:
+  - apiVersion: v1
+    created: 2019-04-04T17:02:56.3813215+09:00
+    description: A Helm chart for Kubernetes
+    digest: 3007484c0fa53f8d51881b4247c1f820341414862296890ba9c4e7e376b4a2ac
+    name: javamicroservicekeeseon-cli
+    urls:
+    - javamicroservicekeeseon-cli-1.0.0.tgz
+    version: 1.0.0
+generated: 2019-04-04T17:02:56.3802891+09:00
